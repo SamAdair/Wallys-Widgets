@@ -7,9 +7,9 @@
 - Run composer update
 - Run composer install
 
+- run php artisan key:generate
 - run php artisan serve
-- run npm run watch
 
 ## Usage
 
-- Enter the required widgets into the widgets box, then press caluclate.
+- Enter the required widgets into the widgets box, then press calculate.
